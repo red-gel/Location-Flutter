@@ -55,15 +55,9 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/background.png
-    - assets/cwle.json
-    - assets/virus.json
-    - assets/tick.json
-    - assets/otpf.json
-    - assets/lock.json
-    - assets/sayhello.json
-    - assets/panic.json
-  
+    - assets/locImage.png
+    - assets/delete.png
+    - assets/success.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
